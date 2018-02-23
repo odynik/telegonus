@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.10)
+cmake_minimum_required(VERSION 3.9)
 project(telegonus)
 
 #Bring the headers, such as xXx.h into the project
