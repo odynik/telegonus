@@ -42,6 +42,7 @@ matrix:
 
 # Build steps
 script:
+  - rmdir -Rf build
   - mkdir build
   - cd build
   - cmake .. && make
