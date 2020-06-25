@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/dev/telegonus/src/helloworld.cpp
+iostream
+-
+krawtchouk.h
+C:/dev/telegonus/src/krawtchouk.h
+
+C:/dev/telegonus/src/krawtchouk.cpp
+krawtchouk.h
+C:/dev/telegonus/src/krawtchouk.h
+
+C:/dev/telegonus/src/krawtchouk.h
+iostream
+-
+

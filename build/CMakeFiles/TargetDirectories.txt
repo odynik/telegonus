@@ -1,0 +1,3 @@
+C:/dev/telegonus/build/CMakeFiles/telegonus.dir
+C:/dev/telegonus/build/CMakeFiles/edit_cache.dir
+C:/dev/telegonus/build/CMakeFiles/rebuild_cache.dir

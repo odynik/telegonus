@@ -7,6 +7,7 @@ Telegonus is one more method for Anomaly Detection.
 # Comments
 1. Cmake: Build in Windows and Unix-like enviroments.
 2. Travis: Continuous integration.
+3. Class Krawtchouk
 
 
 # License
